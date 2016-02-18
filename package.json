@@ -1,7 +1,7 @@
 {
-  "name": "spectacle-boilerplate",
-  "version": "1.0.1",
-  "description": "ReactJS Powered Presentation Framework",
+  "name": "tt-docker",
+  "version": "1.0.0",
+  "description": "CROZ TechThursday - Docker4Everyone presentation",
   "main": "lib/index.js",
   "scripts": {
     "clean": "rimraf dist",
